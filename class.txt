@@ -1,12 +1,13 @@
-Coral
-Midnight Blue
-Lavender
-Maroon
-Teal
-Slate Gray
-Olive
+Crimson
+Orange
+Blue
 Cyan
-Periwinkle
-Salmon
-Indigo
-Peach
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
